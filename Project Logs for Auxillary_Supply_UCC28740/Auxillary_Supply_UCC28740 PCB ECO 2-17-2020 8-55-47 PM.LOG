@@ -1,0 +1,75 @@
+Added Component: Designator=D?(DIOD-DF-M-4)
+Add component (AddParameter): Name = "Avg. Forward Curr (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.diodes.com/_files/datasheets/ds21201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 15-2, 05/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of  Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-65Cto150C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Double In-line Package, Body 8.32 x 6.35 mm, Pitch 5.1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DF-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "CaseDFM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.diodes.com/_files/packages/DF-M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "06/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Non-Repetitive Surge Current (Max)"; Value = "50A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Rep Rev Volt"; Value = "1kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Phase Type"; Value = "SinglePhase"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rev Curr"; Value = "10uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Voltage (Max)"; Value = "700V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LTST-LTV-817-4)
+Add component (AddParameter): Name = "Brand"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "1Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio"; Value = "160%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://components.arrow.com/part/dataview/423620S3450502N1331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. K, 03/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.us.liteon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Collector Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Collector Emitter Saturation Voltage"; Value = "0.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Collector Emitter Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Fall Time"; Value = "18us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Forward Diode Voltage"; Value = "1.4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Input Diode Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+100C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "200mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Reverse Diode Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Rise Time"; Value = "18us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-30C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels per Chip"; Value = "1Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Device"; Value = "NPNPhototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "PDIP-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Double In-line Package, Body 6.5 x 4.6 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "LTV-817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "TransistorOutputOptocouplers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=T1-10
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=T1-9
+Added Net: Name=A2
+Added Pin To Net: NetName=PR1 Pin=T1-1
+Added Net: Name=PR1
+Added Pin To Net: NetName=PR2 Pin=T1-2
+Added Net: Name=PR2
+Added Pin To Net: NetName=SA1 Pin=T1-6
+Added Net: Name=SA1
+Added Pin To Net: NetName=SA2 Pin=T1-7
+Added Net: Name=SA2
+Added Pin To Net: NetName=SB1 Pin=T1-4
+Added Net: Name=SB1
+Added Pin To Net: NetName=SB2 Pin=T1-5
+Added Net: Name=SB2
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D? DF10M
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component U? LTV-817A
+Added Room: Name=Auxillary_Supply_UCC28740

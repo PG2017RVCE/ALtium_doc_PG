@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=15V_A Pin=P2-1
+Removed Pin From Net: NetName=15V_A Pin=P2-2
+Removed Pin From Net: NetName=15V_B Pin=P2-3
+Removed Pin From Net: NetName=15V_B Pin=P2-4
+Added Pin To Net: NetName=NetC27_1 Pin=P2-1
+Added Pin To Net: NetName=NetC27_1 Pin=P2-2
+Added Pin To Net: NetName=NetC29_1 Pin=P2-3
+Added Pin To Net: NetName=NetC29_1 Pin=P2-4
+Added Room: Name=Auxillary_Supply_UCC28740

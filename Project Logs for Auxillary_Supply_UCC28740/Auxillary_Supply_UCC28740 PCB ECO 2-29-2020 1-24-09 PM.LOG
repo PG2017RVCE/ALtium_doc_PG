@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=R4 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R7 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R9 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R10 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R11 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R12 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R13 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R14 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R15 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R16 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Change Component Footprint: Designator=R17 Old Footprint=Chip_Res_1206 New Footprint=Chip_Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C1 400V
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C2 400V
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C3 400V
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C4 400V
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C7 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C8 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C10 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C11 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C12 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C14 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C15 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C16 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C17 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C18 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C20 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C22 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C23 Cap_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C24 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D1 DF10M
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D2 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D3 SMBJ33A
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D4 SS36-E3/57T
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D5 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D6 SS36-E3/57T
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D7 B360A-13-F
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D8 B360A-13-F
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component L1 CDRH127NP-100MC
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component P1 Header 6X2H
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component P2 Header 6X2H
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component Q1 NMOS-2
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R2 Res_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R3 Res_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R8 Res_2512
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R14 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component T1 EE25-Epcos Horizontal
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component U1 UCC28740-Q1
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component U2 PC817
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component U3 TL431ACDBZR
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component VR1 L7805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component VR2 LD1117-3.3
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component VR3 L7805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component VR4 LD1117-3.3
+Added Room: Name=Auxillary_Supply_UCC28740

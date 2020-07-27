@@ -1,0 +1,2 @@
+Added Room: Name=Auxillary_Supply_UCC28740
+Change Rule Scope 1 : Old Scope=InNet('NetD4_1') New Scope=InNetClass('HV')

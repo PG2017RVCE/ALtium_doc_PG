@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=NetC6_2 New Net Name=15V_A
+Change Net Name : Old Net Name=NetC9_2 New Net Name=15V_B
+Change Net Name : Old Net Name=NetC18_1 New Net Name=5V_A
+Change Net Name : Old Net Name=NetC20_1 New Net Name=3.3V_A
+Change Net Name : Old Net Name=NetC22_1 New Net Name=5V_B
+Change Net Name : Old Net Name=NetC24_1 New Net Name=3.3V_B
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Room: Name=Auxillary_Supply_UCC28740

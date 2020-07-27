@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=VR1 Old Footprint=DPAK254P1542X450-3N - DUPLICATE New Footprint=DPAK254P1542X450-3N - duplicate - duplicate
+Change Component Footprint: Designator=VR3 Old Footprint=DPAK254P1542X450-3N - DUPLICATE New Footprint=DPAK254P1542X450-3N - duplicate - duplicate
+Change Component Footprint: Designator=Q1 Old Footprint=DPAK254P1542X450-3N - DUPLICATE New Footprint=DPAK254P1542X450-3N - Thermal
+Added Room: Name=Auxillary_Supply_UCC28740

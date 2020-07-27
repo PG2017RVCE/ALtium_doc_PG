@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Added Component: Designator=*1(DF10M)
+Added Pin To Net: NetName=HV Pin=*1-1
+Added Pin To Net: NetName=GNDAUX Pin=*1-2
+Added Pin To Net: NetName=LIVE Pin=*1-3
+Added Pin To Net: NetName=NEUTRAL Pin=*1-4
+Added Pin To Net: NetName=HV Pin=C1-1
+Added Pin To Net: NetName=HV Pin=C2-1
+Added Pin To Net: NetName=HV Pin=L1-1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component *1 DF10M
+Added Room: Name=Auxillary_Supply_UCC28740
+Change Rule Scope 1 : Old Scope=InNet('NetC1_1') New Scope=InNet('HV')
+Change Rule Scope 1 : Old Scope=InNet('NetD4_1') New Scope=InNet('NetD3_1')
+Change Rule Scope 1 : Old Scope=InNet('NetC1_1') New Scope=InNet('HV')
+Change Rule Scope 1 : Old Scope=InNet('NetD4_1') New Scope=InNet('NetD3_1')

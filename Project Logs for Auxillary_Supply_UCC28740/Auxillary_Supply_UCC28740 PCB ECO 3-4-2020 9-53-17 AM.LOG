@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V_A Pin=P2-2
+Removed Pin From Net: NetName=15V_A Pin=P2-6
+Removed Pin From Net: NetName=15V_B Pin=P2-8
+Removed Pin From Net: NetName=3.3V_B Pin=P2-12
+Added Pin To Net: NetName=15V_A Pin=P2-2
+Added Pin To Net: NetName=3.3V_A Pin=P2-6
+Added Pin To Net: NetName=3.3V_B Pin=P2-8
+Added Pin To Net: NetName=15V_B Pin=P2-12
+Added Room: Name=Auxillary_Supply_UCC28740

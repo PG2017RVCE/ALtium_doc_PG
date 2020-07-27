@@ -1,0 +1,408 @@
+Change Component Comment : Designator=T1 Old Comment=EE25-Epcos Horizontal New Comment=EE25-Epcos Horizontal_3
+Added Component: Designator=C6(Chip_CAP_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C8(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C10(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C11(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Chip_CAP_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=C20(PNSC-FK-V-F_V)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DPAK254P1542X450-4N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/11dq05.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-204AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DPAK254P1542X450-4N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/11dq05.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-204AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D9(DPAK254P1542X450-4N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/11dq05.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 5.2 x 2.7 mm (LxDia. max), Lead Dia. 0.86 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-204AL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Header_6X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Header_6X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R18(Chip_Res_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "JUMPER"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=15V_A Pin=C6-2
+Added Pin To Net: NetName=15V_A Pin=C7-1
+Added Pin To Net: NetName=15V_A Pin=C8-1
+Added Pin To Net: NetName=15V_A Pin=D2-2
+Added Pin To Net: NetName=15V_A Pin=D2-2
+Added Pin To Net: NetName=15V_A Pin=P2-1
+Added Pin To Net: NetName=15V_A Pin=P2-2
+Added Pin To Net: NetName=15V_A Pin=P3-1
+Added Pin To Net: NetName=15V_A Pin=P3-2
+Added Net: Name=15V_A
+Added Pin To Net: NetName=15V_B Pin=C9-2
+Added Pin To Net: NetName=15V_B Pin=C10-1
+Added Pin To Net: NetName=15V_B Pin=C11-1
+Added Pin To Net: NetName=15V_B Pin=D5-2
+Added Pin To Net: NetName=15V_B Pin=D5-2
+Added Pin To Net: NetName=15V_B Pin=P2-3
+Added Pin To Net: NetName=15V_B Pin=P2-4
+Added Pin To Net: NetName=15V_B Pin=P3-11
+Added Pin To Net: NetName=15V_B Pin=P3-12
+Added Net: Name=15V_B
+Added Pin To Net: NetName=15V_C Pin=C18-2
+Added Pin To Net: NetName=15V_C Pin=C19-1
+Added Pin To Net: NetName=15V_C Pin=C20-1
+Added Pin To Net: NetName=15V_C Pin=D9-2
+Added Pin To Net: NetName=15V_C Pin=D9-2
+Added Pin To Net: NetName=15V_C Pin=P2-5
+Added Pin To Net: NetName=15V_C Pin=P2-6
+Added Pin To Net: NetName=15V_C Pin=P2-11
+Added Pin To Net: NetName=15V_C Pin=P2-12
+Added Pin To Net: NetName=15V_C Pin=R10-2
+Added Pin To Net: NetName=15V_C Pin=R11-1
+Added Net: Name=15V_C
+Added Pin To Net: NetName=CS Pin=R6-1
+Added Pin To Net: NetName=CS Pin=U1-5
+Added Net: Name=CS
+Added Pin To Net: NetName=DRV Pin=R3-1
+Added Pin To Net: NetName=DRV Pin=U1-6
+Added Net: Name=DRV
+Added Pin To Net: NetName=FB Pin=C16-2
+Added Pin To Net: NetName=FB Pin=R14-1
+Added Pin To Net: NetName=FB Pin=R15-2
+Added Pin To Net: NetName=FB Pin=U1-3
+Added Net: Name=FB
+Added Pin To Net: NetName=GNDA Pin=C6-1
+Added Pin To Net: NetName=GNDA Pin=C7-2
+Added Pin To Net: NetName=GNDA Pin=C8-2
+Added Pin To Net: NetName=GNDA Pin=P3-3
+Added Pin To Net: NetName=GNDA Pin=P3-4
+Added Pin To Net: NetName=GNDA Pin=P3-5
+Added Pin To Net: NetName=GNDA Pin=P3-6
+Added Pin To Net: NetName=GNDA Pin=T1-9
+Added Net: Name=GNDA
+Added Pin To Net: NetName=GNDAUX Pin=C1-2
+Added Pin To Net: NetName=GNDAUX Pin=C2-2
+Added Pin To Net: NetName=GNDAUX Pin=C3-2
+Added Pin To Net: NetName=GNDAUX Pin=C4-2
+Added Pin To Net: NetName=GNDAUX Pin=C12-2
+Added Pin To Net: NetName=GNDAUX Pin=C13-1
+Added Pin To Net: NetName=GNDAUX Pin=C14-2
+Added Pin To Net: NetName=GNDAUX Pin=C15-1
+Added Pin To Net: NetName=GNDAUX Pin=D1-2
+Added Pin To Net: NetName=GNDAUX Pin=R7-1
+Added Pin To Net: NetName=GNDAUX Pin=R8-1
+Added Pin To Net: NetName=GNDAUX Pin=R9-2
+Added Pin To Net: NetName=GNDAUX Pin=R15-1
+Added Pin To Net: NetName=GNDAUX Pin=T1-4
+Added Pin To Net: NetName=GNDAUX Pin=U1-4
+Added Net: Name=GNDAUX
+Added Pin To Net: NetName=GNDB Pin=C9-1
+Added Pin To Net: NetName=GNDB Pin=C10-2
+Added Pin To Net: NetName=GNDB Pin=C11-2
+Added Pin To Net: NetName=GNDB Pin=P3-7
+Added Pin To Net: NetName=GNDB Pin=P3-8
+Added Pin To Net: NetName=GNDB Pin=P3-9
+Added Pin To Net: NetName=GNDB Pin=P3-10
+Added Pin To Net: NetName=GNDB Pin=T1-7
+Added Net: Name=GNDB
+Added Pin To Net: NetName=GNDC Pin=C18-1
+Added Pin To Net: NetName=GNDC Pin=C19-2
+Added Pin To Net: NetName=GNDC Pin=C20-2
+Added Pin To Net: NetName=GNDC Pin=P2-7
+Added Pin To Net: NetName=GNDC Pin=P2-8
+Added Pin To Net: NetName=GNDC Pin=P2-9
+Added Pin To Net: NetName=GNDC Pin=P2-10
+Added Pin To Net: NetName=GNDC Pin=R17-1
+Added Pin To Net: NetName=GNDC Pin=T1-5
+Added Pin To Net: NetName=GNDC Pin=U3-3
+Added Net: Name=GNDC
+Added Pin To Net: NetName=HV Pin=C3-1
+Added Pin To Net: NetName=HV Pin=C4-1
+Added Pin To Net: NetName=HV Pin=C5-2
+Added Pin To Net: NetName=HV Pin=D3-1
+Added Pin To Net: NetName=HV Pin=L1-2
+Added Pin To Net: NetName=HV Pin=R1-2
+Added Pin To Net: NetName=HV Pin=T1-1
+Added Pin To Net: NetName=HV Pin=U1-8
+Added Net: Name=HV
+Added Pin To Net: NetName=LIVE Pin=D1-3
+Added Pin To Net: NetName=LIVE Pin=P1-9
+Added Pin To Net: NetName=LIVE Pin=P1-10
+Added Pin To Net: NetName=LIVE Pin=P1-11
+Added Pin To Net: NetName=LIVE Pin=P1-12
+Added Net: Name=LIVE
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R9-1
+Added Pin To Net: NetName=NetC15_2 Pin=R12-1
+Added Pin To Net: NetName=NetC15_2 Pin=U2-4
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=R14-2
+Added Pin To Net: NetName=NetC16_1 Pin=U2-3
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=R13-1
+Added Pin To Net: NetName=NetC17_1 Pin=R16-2
+Added Pin To Net: NetName=NetC17_1 Pin=U2-2
+Added Pin To Net: NetName=NetC17_1 Pin=U3-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=R11-2
+Added Pin To Net: NetName=NetC17_2 Pin=R16-1
+Added Pin To Net: NetName=NetC17_2 Pin=R17-2
+Added Pin To Net: NetName=NetC17_2 Pin=U3-2
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=T1-10
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D6-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-2
+Added Pin To Net: NetName=NetD4_1 Pin=T1-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=T1-8
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-1
+Added Pin To Net: NetName=NetD7_1 Pin=R18-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=T1-6
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R8-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R13-2
+Added Pin To Net: NetName=NetR10_1 Pin=U2-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NEUTRAL Pin=D1-4
+Added Pin To Net: NetName=NEUTRAL Pin=P1-1
+Added Pin To Net: NetName=NEUTRAL Pin=P1-2
+Added Pin To Net: NetName=NEUTRAL Pin=P1-3
+Added Pin To Net: NetName=NEUTRAL Pin=P1-4
+Added Net: Name=NEUTRAL
+Added Pin To Net: NetName=VCC_AUX Pin=C12-1
+Added Pin To Net: NetName=VCC_AUX Pin=C13-2
+Added Pin To Net: NetName=VCC_AUX Pin=C14-1
+Added Pin To Net: NetName=VCC_AUX Pin=D7-2
+Added Pin To Net: NetName=VCC_AUX Pin=D8-2
+Added Pin To Net: NetName=VCC_AUX Pin=R12-2
+Added Pin To Net: NetName=VCC_AUX Pin=U1-1
+Added Net: Name=VCC_AUX
+Added Pin To Net: NetName=VS_Feed Pin=R4-2
+Added Pin To Net: NetName=VS_Feed Pin=R18-2
+Added Pin To Net: NetName=VS_Feed Pin=T1-3
+Added Net: Name=VS_Feed
+Added Pin To Net: NetName=VS Pin=R4-1
+Added Pin To Net: NetName=VS Pin=R7-2
+Added Pin To Net: NetName=VS Pin=TP1-1
+Added Pin To Net: NetName=VS Pin=U1-2
+Added Net: Name=VS
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C6 Cap_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C7 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C8 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C10 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C11 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C18 Cap_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C19 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C20 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D2 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D5 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D9 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component P2 Header 6X2H
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component P3 Header 6X2H
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R18 Res_1206
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component TP1 Test Point
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component U3 TL431ACDBZR
+Added Member To Class: ClassName=HV Member=Wire HV
+Added Member To Class: ClassName=HV Member=Wire LIVE
+Added Member To Class: ClassName=HV Member=Wire NetC1_1
+Added Member To Class: ClassName=HV Member=Wire NetD4_1
+Added Room: Name=Auxillary_Supply_UCC28740

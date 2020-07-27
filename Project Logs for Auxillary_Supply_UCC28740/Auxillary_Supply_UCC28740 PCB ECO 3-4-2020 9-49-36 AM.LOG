@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V_A Pin=VR2-1
+Removed Pin From Net: NetName=GNDA Pin=VR2-2
+Removed Pin From Net: NetName=GNDA Pin=VR2-2
+Removed Pin From Net: NetName=3.3V_A Pin=VR2-3
+Removed Pin From Net: NetName=5V_B Pin=VR4-1
+Removed Pin From Net: NetName=GNDB Pin=VR4-2
+Removed Pin From Net: NetName=GNDB Pin=VR4-2
+Removed Pin From Net: NetName=3.3V_B Pin=VR4-3
+Added Pin To Net: NetName=GNDA Pin=VR2-1
+Added Pin To Net: NetName=3.3V_A Pin=VR2-2
+Added Pin To Net: NetName=3.3V_A Pin=VR2-2
+Added Pin To Net: NetName=5V_A Pin=VR2-3
+Added Pin To Net: NetName=GNDB Pin=VR4-1
+Added Pin To Net: NetName=3.3V_B Pin=VR4-2
+Added Pin To Net: NetName=3.3V_B Pin=VR4-2
+Added Pin To Net: NetName=5V_B Pin=VR4-3
+Added Room: Name=Auxillary_Supply_UCC28740

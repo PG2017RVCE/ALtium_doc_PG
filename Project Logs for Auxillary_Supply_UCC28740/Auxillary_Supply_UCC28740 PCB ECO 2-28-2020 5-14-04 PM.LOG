@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=HV Pin=C1-1
+Removed Pin From Net: NetName=HV Pin=C2-1
+Removed Pin From Net: NetName=HV Pin=D1-1
+Removed Pin From Net: NetName=HV Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D1 DF10M
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D2 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D3 SMBJ33A
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D4 SS36-E3/57T
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D5 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D7 B360A-13-F
+Added Room: Name=Auxillary_Supply_UCC28740
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Width Constraint_2
+Change Rule Scope 1 : Old Scope=InNet('HV') New Scope=InNet('NetC1_1')
+Change Rule Scope 1 : Old Scope=InNet('HV') New Scope=InNet('NetC1_1')

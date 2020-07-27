@@ -1,0 +1,5 @@
+Added Room: Name=Auxillary_Supply_UCC28740
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Clearance Constraint_2
+Change Rule Scope 1 : Old Scope=InNetClass('HV') New Scope=InNet('NetD4_1')

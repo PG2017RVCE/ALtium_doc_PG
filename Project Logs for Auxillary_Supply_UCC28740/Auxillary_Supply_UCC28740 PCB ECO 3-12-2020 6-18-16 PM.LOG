@@ -1,0 +1,19 @@
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=Yellow New Net Color=RGB(110, 255, 255)
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C13 100uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C15 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C17 47uF
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C18 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C19 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component C20 Cap_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D7 STPS3030C6
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component D9 B360A-13-F
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component P3 Header 6X2H
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R10 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R12 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R14 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R15 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R16 Res_0805
+Added Member To Class: ClassName=Auxillary_Supply_UCC28740 Member=Component R18 Res_0805
+Added Room: Name=Auxillary_Supply_UCC28740
