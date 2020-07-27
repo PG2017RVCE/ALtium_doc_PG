@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=644F2DCD-B55F-4E2B-913A-9F27EC85A956
+VaultGUID=7B82A395-410B-4172-847B-9B266C5CB296
+ReleaseVaultName=Rahul G
+ItemGUID=644F2DCD-B55F-4E2B-913A-9F27EC85A956
 IncludeDesignInRelease=0
 
 [Preferences]
